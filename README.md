@@ -83,7 +83,7 @@ sudo ./couchdb.sh
 
 ### Attention
 
-- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox you need to follow all the steps of [ubuntu installation](##address-based-access-control)
+- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox you need to follow all the steps of [ubuntu installation](##Ubuntu-16.04/18.04-OS)
 
 
 
