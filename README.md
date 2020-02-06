@@ -4,7 +4,7 @@
 
 **If you have ubuntu installed on your machine then you don't need to setup VirtualBox for this demo.**
 
-#### Please give the executable permission for all the shell script files
+#### Please give the executable permission for all the shell script files.
 ```
 cd scripts
 sudo chmod +x *.sh
@@ -24,14 +24,14 @@ sudo ./go.sh
 
 **Please logout and login again.**
 
-#### For Verifying the Docker Installation
+#### To Verify the Docker Installation and its version.
 ```
 docker --version
 docker-compose --version
 ```
 This commands will display the version of the docker & docker-compose installed on your machine.
 
-#### For Verifying the GOLANG Installation
+#### To Verify the GOLANG Installation and its version.
 ```
 go version
 ```
@@ -55,7 +55,7 @@ This command will display all the binaries of the Hyperledger Fabric.
 cd scripts
 sudo -E ./caserver-setup.sh
 ```
-This will download the binaries of the certification authority for the hyperledger fabric.
+This will download the binaries of the Certification Authority for the hyperledger fabric.
 
 #### For Installation of JQ - The commandline JSON Processor
 ```
@@ -83,7 +83,7 @@ sudo ./couchdb.sh
 
 ### Attention
 
-- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox you need to follow all the steps of [ubuntu installation](#ubuntu-16041804-os) section of this document.
+- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox, you need to follow all the steps of [ubuntu installation](#ubuntu-16041804-os) section of this document.
 
 
 
