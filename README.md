@@ -1,6 +1,6 @@
 # HLF-Prereqs
 
-# Ubuntu 16.04/18.04 OS
+## Ubuntu 16.04/18.04 OS
 
 **If you have ubuntu installed on your machine then you dont need to setup VirtualBox or vagrant for this demo.**
 
@@ -75,7 +75,7 @@ cd scripts
 sudo ./couchdb.sh
 ```
 
-# Windows 10 OS
+## Windows 10 OS
 
 **If you have windows installed on your machine then have to download VirtualBox on your machine.**
 - Please download the VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads)
@@ -83,7 +83,7 @@ sudo ./couchdb.sh
 
 ### Attention
 
-- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox you need to follow all the steps of [ubuntu installation](#ubuntu-16.04-18.04-os) section of this document.
+- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox you need to follow all the steps of [ubuntu installation](##ubuntu-16041804-os) section of this document.
 
 
 
