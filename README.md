@@ -1,6 +1,6 @@
 # HLF-Prereqs
 
-## Ubuntu 16.04/18.04 OS
+# Ubuntu 16.04/18.04 OS
 
 **If you have ubuntu installed on your machine then you dont need to setup VirtualBox or vagrant for this demo.**
 
@@ -83,7 +83,7 @@ sudo ./couchdb.sh
 
 ### Attention
 
-- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox you need to follow all the steps of [ubuntu installation](##Ubuntu-16.04/18.04-OS)
+- After succesful installation of Ubuntu 16.04/18.04 on VirtualBox you need to follow all the steps of [ubuntu installation](#Ubuntu-16.04/18.04-OS) section of this document.
 
 
 
