@@ -2,7 +2,7 @@
 
 # Ubuntu 16.04/18.04 OS
 
-**If you have ubuntu installed on your machine then you dont need to setup VirtualBox or vagrant for this demo.**
+**If you have ubuntu installed on your machine then you don't need to setup VirtualBox for this demo.**
 
 #### Please give the executable permission for all the shell script files
 ```
@@ -29,26 +29,26 @@ sudo ./go.sh
 docker --version
 docker-compose --version
 ```
-This commands will display the version of the docker installed on your machine.
+This commands will display the version of the docker & docker-compose installed on your machine.
 
 #### For Verfying the GOLANG Installation
 ```
 go version
 ```
-This commands will display the version of the docker installed on your machine.
+This command will display the version of the golang installed on your machine.
 
 #### For Installation of Hyperledger Fabric Binaries
 ```
 cd scripts
 sudo -E ./fabric-setup.sh
 ```
-This will download all the necessary binaries of the hyperledger fabric. Script may take upto 30-40 Minutes dependind on your internet speed. It will download approx **1.5GB to 2.5GB**.
+This will download all the necessary binaries of the hyperledger fabric. Script may take upto 30-40 Minutes depending on your internet speed. It will download approx **1.5GB to 2.5GB**.
 
 #### For Verfying the Installation of all the binaries of Hyperledger Fabric
 ```
 docker images
 ```
-This commands will display all the binaries of the Hyperledger Fabric.
+This command will display all the binaries of the Hyperledger Fabric.
 
 #### For Installation of Hyperledger Certification Authority Binaries
 ```
@@ -67,7 +67,7 @@ sudo ./jq.sh
 ```
 jq
 ```
-This commands will display the jq help guide.
+This command will display the jq help guide.
 
 #### For Installation of CouchDB
 ```
@@ -79,7 +79,7 @@ sudo ./couchdb.sh
 
 **If you have windows installed on your machine then have to download VirtualBox on your machine.**
 - Please download the VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads)
-- Help Guide [here](https://itsfoss.com/install-linux-in-virtualbox/)
+- [Help Guide](https://itsfoss.com/install-linux-in-virtualbox/)
 
 ### Attention
 
