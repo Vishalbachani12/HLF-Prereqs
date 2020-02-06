@@ -24,14 +24,14 @@ sudo ./go.sh
 
 **Please logout and login again.**
 
-#### For Verfying the Docker Installation
+#### For Verifying the Docker Installation
 ```
 docker --version
 docker-compose --version
 ```
 This commands will display the version of the docker & docker-compose installed on your machine.
 
-#### For Verfying the GOLANG Installation
+#### For Verifying the GOLANG Installation
 ```
 go version
 ```
@@ -44,7 +44,7 @@ sudo -E ./fabric-setup.sh
 ```
 This will download all the necessary binaries of the hyperledger fabric. Script may take upto 30-40 Minutes depending on your internet speed. It will download approx **1.5GB to 2.5GB**.
 
-#### For Verfying the Installation of all the binaries of Hyperledger Fabric
+#### For Verifying the Installation of all the binaries of Hyperledger Fabric
 ```
 docker images
 ```
@@ -63,7 +63,7 @@ cd scripts
 sudo ./jq.sh
 ```
 
-#### For Verfying the Installation of JQ
+#### For Verifying the Installation of JQ
 ```
 jq
 ```
